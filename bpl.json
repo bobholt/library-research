@@ -1,0 +1,448 @@
+{
+  "menu": [
+    {
+      "name": "General Info",
+      "url": "http://www.bpl.org/general/",
+      "menu": [
+        {
+          "name": "About the Boston Public Library",
+          "url": "http://www.bpl.org/general/about/"
+        },
+        {
+          "name": "Affiliates of the Library",
+          "url": "http://www.bpl.org/general/affiliates.htm"
+        },
+        {
+          "name": "Board of Trustees",
+          "url": "http://www.bpl.org/general/trustees/trustees.htm"
+        },
+        {
+          "name": "Borrowing &amp; Circulation Information",
+          "url": "http://www.bpl.org/general/circulation/"
+        },
+        {
+          "name": "Computers &amp; Technology",
+          "url": "http://www.bpl.org/general/technology.htm"
+        },
+        {
+          "name": "Holiday Observances",
+          "url": "http://www.bpl.org/general/holidays.htm"
+        },
+        {
+          "name": "Hours &amp; Directions",
+          "url": "http://www.bpl.org/general/hours.htm"
+        },
+        {
+          "name": "How Do I...?",
+          "url": "http://www.bpl.org/general/howdoi.htm"
+        },
+        {
+          "name": "Job Opportunities",
+          "url": "http://www.bpl.org/general/jobs.htm"
+        },
+        {
+          "name": "Policies &amp; Procedures",
+          "url": "http://www.bpl.org/general/policies/"
+        },
+        {
+          "name": "Popular Subjects and Call Numbers",
+          "url": "http://www.bpl.org/general/popular.htm"
+        },
+        {
+          "name": "Strategic Planning",
+          "url": "http://www.bpl.org/compass/"
+        },
+        {
+          "name": "Support the Library",
+          "url": "http://www.bpl.org/general/donations.htm"
+        },
+        {
+          "name": "Understanding Call Numbers",
+          "url": "http://www.bpl.org/general/callnumbers.htm"
+        }
+      ]
+    },
+    {
+      "name": "Central Library",
+      "url": "http://www.bpl.org/central/",
+      "menu": [
+        {
+          "name": "Access Services",
+          "url": "http://www.bpl.org/central/access.htm"
+        },
+        {
+          "name": "Art and Architecture Tours",
+          "url": "http://www.bpl.org/central/tours.htm"
+        },
+        {
+          "name": "ASA College Planning",
+          "url": "http://www.bpl.orghttp://www.asa.org/for-students/college-planning/"
+        },
+        {
+          "name": "Brief Walking Tour of the McKim Building",
+          "url": "http://www.bpl.org/central/walkmckim.htm"
+        },
+        {
+          "name": "Calendar of Events",
+          "url": "http://www.bpl.org/central/calendar.htm"
+        },
+        {
+          "name": "Car, Bicycle &amp; Motorcycle Parking",
+          "url": "http://www.bpl.org/central/copleymap.htm"
+        },
+        {
+          "name": "Children's Library",
+          "url": "http://www.bpl.org/kids/kids-at-bpl/childrens-room-copley/"
+        },
+        {
+          "name": "Borrower Services",
+          "url": "http://www.bpl.org/central/circulation.htm"
+        },
+        {
+          "name": "Delivery Desk",
+          "url": "http://www.bpl.org/research/deliverydesk.htm"
+        },
+        {
+          "name": "Hours &amp; Directions",
+          "url": "http://www.bpl.org/general/hours.htm"
+        },
+        {
+          "name": "Kirstein Business Library",
+          "url": "http://www.bpl.org/kbl"
+        },
+        {
+          "name": "Map of Central Library",
+          "url": "http://www.bpl.org/central/plan.htm"
+        },
+        {
+          "name": "Meeting Rooms",
+          "url": "http://www.bpl.org/central/meetingrooms.htm"
+        },
+        {
+          "name": "Reception &amp; Event Booking",
+          "url": "http://www.bpl.org/central/eventspaces.htm"
+        },
+        {
+          "name": "Reference &amp; Reader's Advisory",
+          "url": "http://www.bpl.org/research/generalref/"
+        },
+        {
+          "name": "Restaurants",
+          "url": "http://www.thecateredaffair.com/bpl/"
+        },
+        {
+          "name": "Teen Central",
+          "url": "http://www.bpl.org/teens/at-the-bpl/teen-room-central/"
+        },
+        {
+          "name": "Tours",
+          "url": "http://www.bpl.org/central/tours.htm"
+        },
+        {
+          "name": "Wheelchair Available",
+          "url": "http://www.bpl.org/central/wheelchair.htm"
+        }
+      ]
+    },
+    {
+      "name": "Neighborhood Branches",
+      "url": "http://www.bpl.org/branches/",
+      "menu": [
+        {
+          "name": "About the 24 Neighborhood Branches",
+          "url": "http://www.bpl.org/branches/"
+        },
+        {
+          "name": "Branch Capital Projects",
+          "url": "http://www.bpl.org/branches/branch_capital_projects.htm"
+        },
+        {
+          "name": "Map of Library Locations",
+          "url": "http://www.bpl.org/general/branch.htm"
+        }
+      ]
+    },
+    {
+      "name": "Research &amp; Specialized Services",
+      "url": "http://www.bpl.org/research/",
+      "menu": [
+        {
+          "name": "Booklists for Adults",
+          "url": "http://www.bpl.org/research/adultbooklists/booklists.htm"
+        },
+        {
+          "name": "Booklists for Kids",
+          "url": "http://www.bpl.org/kids/read/"
+        },
+        {
+          "name": "Booklists for Teens",
+          "url": "http://www.bpl.orghttp://bpl.bibliocommons.com/lists/show/100083751_bostonpl_teenlists"
+        },
+        {
+          "name": "Fine Arts",
+          "url": "http://www.bpl.org/research/finearts.htm"
+        },
+        {
+          "name": "Genealogy",
+          "url": "http://www.bpl.org/genealogy"
+        },
+        {
+          "name": "Government Information",
+          "url": "http://www.bpl.org/govinfo"
+        },
+        {
+          "name": "Interlibrary Loan",
+          "url": "http://www.bpl.org/research/illoan.htm"
+        },
+        {
+          "name": "Kids",
+          "url": "http://www.bpl.org/kids/"
+        },
+        {
+          "name": "Kirstein Business Library",
+          "url": "http://www.bpl.org/kbl"
+        },
+        {
+          "name": "Literacy Services &amp; ESL",
+          "url": "http://www.bpl.org/research/literacy.htm"
+        },
+        {
+          "name": "Microtext",
+          "url": "http://www.bpl.org/research/microtext/"
+        },
+        {
+          "name": "Music",
+          "url": "http://www.bpl.org/research/music/"
+        },
+        {
+          "name": "Newspapers",
+          "url": "http://www.bpl.org/research/newspapers/"
+        },
+        {
+          "name": "Norman B. Leventhal Map Center",
+          "url": "http://www.bpl.org/research/nblmapcenter.htm"
+        },
+        {
+          "name": "Prints and Photographs",
+          "url": "http://www.bpl.org/research/print/"
+        },
+        {
+          "name": "Proctoring Services",
+          "url": "http://www.bpl.org/research/socsci/proctoring.htm"
+        },
+        {
+          "name": "Rare Books and Manuscripts",
+          "url": "http://www.bpl.org/research/rb/"
+        },
+        {
+          "name": "Reference &amp; Reader's Advisory",
+          "url": "http://www.bpl.org/research/generalref/"
+        },
+        {
+          "name": "Research Guides",
+          "url": "http://guides.bpl.org"
+        },
+        {
+          "name": "Social Sciences",
+          "url": "http://www.bpl.org/research/socsci/"
+        },
+        {
+          "name": "Special Collections",
+          "url": "http://www.bpl.org/research/special/"
+        },
+        {
+          "name": "Teens",
+          "url": "http://www.bpl.org/teens/"
+        }
+      ]
+    },
+    {
+      "name": "Our Collections",
+      "url": "http://www.bpl.org/collections/",
+      "menu": [
+        {
+          "name": "BPL Catalog (MBLN)",
+          "url": "http://www.bpl.orghttp://bpl.bibliocommons.com",
+          "menu": [
+            {
+              "name": "-- Alternate Catalog",
+              "url": "http://catalog.mbln.org/Polaris/default.aspx?ctx=12.1033.0.0"
+            },
+            {
+              "name": "-- Mobile Catalog",
+              "url": "http://www.bpl.org/collections/mobile.htm"
+            }
+          ]
+        },
+        {
+         "name": "Overdrive (eBooks &amp; more)",
+         "url": "http://www.bpl.org/collections/downloadable.htm"
+        },
+        {
+          "name": "Hoopla Streaming Media",
+          "url": "http://www.bpl.orghttp://www.bpl.org/collections/hoopla.htm"
+        },
+        {
+          "name": "Zinio Digital Magazines",
+          "url": "http://www.bpl.orghttp://www.bpl.org/collections/zinio.htm"
+        },
+        {
+          "name": "All eBook Resources",
+          "url": "http://www.bpl.org/electronic/ebook.asp"
+        },
+        {
+          "name": "Newspapers List",
+          "url": "http://www.bpl.org/research/newspapers/"
+        },
+        {
+          "name": "Online Collections",
+          "url": "http://www.bpl.org/collections/online/"
+        },
+        {
+          "name": "Collections of Distinction",
+          "url": "http://www.bpl.org/distinction/"
+        },
+        {
+          "name": "Archival and Manuscript Finding Aids",
+          "url": "http://www.bpl.orghttp://archon.bpl.org"
+        },
+        {
+          "name": "Special Collections",
+          "url": "http://www.bpl.org/research/special/"
+        },
+        {
+          "name": "World Languages",
+          "url": "http://www.bpl.org/collections/index.htm#world_languages"
+        }
+      ]
+    },
+    {
+      "name": "Electronic Resources",
+      "url": "http://www.bpl.org/electronic/",
+      "menu": [
+        {
+          "name": "A-Z list of resources",
+          "url": "http://www.bpl.org/electronic/alpha.asp"
+        },
+        {
+          "name": "e-Journals by title",
+          "url": "http://www.bpl.orghttp://yj2rx5vx3s.search.serialssolutions.com/"
+        },
+        {
+          "name": "Google Scholar",
+          "url": "http://www.bpl.orghttp://scholar.google.com.ezproxy.bpl.org/"
+        },
+        {
+          "name": "Internet links",
+          "url": "http://www.bpl.org/electronic/indexinternet.htm"
+        },
+        {
+          "name": "Resources by Subject",
+          "url": "http://www.bpl.org/electronic/"
+        }
+      ]
+    },
+    {
+      "name": "Programs &amp; Events",
+      "url": "http://www.bpl.org/programs/",
+      "menu": [
+        {
+          "name": "Author Talk Series",
+          "url": "http://www.bpl.org/programs/author_series.htm"
+        },
+        {
+          "name": "Calendar of  Events",
+          "url": "http://www.bpl.org/programs/calendar.htm"
+        },
+        {
+          "name": "Computer Classes",
+          "url": "http://www.bpl.org/general/tech_training.htm"
+        },
+        {
+          "name": "Concerts in the Courtyard",
+          "url": "http://www.bpl.org/programs/concerts.htm"
+        },
+        {
+          "name": "Exhibitions",
+          "url": "http://www.bpl.org/exhibitions"
+        },
+        {
+          "name": "Local &amp; Family History Series",
+          "url": "http://www.bpl.org/programs/local_family_history_series.htm"
+        },
+        {
+          "name": "Lowell Lecture Series",
+          "url": "http://www.bpl.org/programs/lowell/"
+        },
+        {
+          "name": "Never Too Late Group",
+          "url": "http://www.bpl.org/programs/ntlg.htm"
+        },
+        {
+          "name": "Programs in the Community",
+          "url": "http://www.bpl.org/programs/community.htm"
+        },
+        {
+          "name": "Proposing Programs",
+          "url": "http://www.bpl.org/programs/programs.htm"
+        }
+      ]
+    },
+    {
+      "url": "http://www.bpl.org/press/",
+      "name": "Press Room",
+      "menu": [
+        {
+          "name": "Press Room",
+          "url": "http://www.bpl.org/press/"
+        },
+        {
+          "name": "Organization",
+          "url": "http://www.bpl.org/press/bpl-information/"
+        },
+        {
+          "name": "Media Releases",
+          "url": "http://www.bpl.org/press/category/media-releases/"
+        },
+        {
+          "name": "For Members of the Press",
+          "url": "http://www.bpl.org/press/for-members-of-the-press/"
+        },
+        {
+          "name": "Subscribe to BPL eNews",
+          "url": "http://www.bpl.org/press/enews/"
+        }
+      ]
+    },
+    {
+      "name": "Contact Us",
+      "url": "http://www.bpl.org/contact/",
+      "menu": [
+        {
+          "name": "Call Us",
+          "url": "http://www.bpl.org/contact/index.htm#phone"
+        },
+        {
+          "name": "Email Us",
+          "url": "http://www.bpl.org/contact/index.htm#email"
+        },
+        {
+          "name": "Visit Us",
+          "url": "http://www.bpl.org/contact/index.htm#visit"
+        },
+        {
+          "name": "Follow Us Online",
+          "url": "http://www.bpl.org/contact/index.htm#follow"
+        },
+        {
+          "name": "Write Us",
+          "url": "http://www.bpl.org/contact/index.htm#write"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+

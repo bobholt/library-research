@@ -1,0 +1,154 @@
+{
+  "menu": [
+    {
+      "name": "Events and Groups",
+      "url": "http://peterboroughtownlibrary.org/news/",
+      "menu": [
+        {
+          "name": "Book Groups",
+          "url": "http://peterboroughtownlibrary.org/news/book-groups/"
+        },
+        {
+          "name": "Events for Kids",
+          "url": "http://peterboroughtownlibrary.org/news/kidevents/"
+        },
+        {
+          "name": "Library Calendar",
+          "url": "http://peterboroughtownlibrary.org/news/calendar/"
+        },
+        {
+          "name": "Summer Reading Events",
+          "url": "http://peterboroughtownlibrary.org/news/summer-reading-events/"
+        },
+        {
+          "name": "Online Mondays",
+          "url": "http://peterboroughtownlibrary.org/news/tech/"
+        },
+        {
+          "name": "Artist of the Month",
+          "url": "http://peterboroughtownlibrary.org/news/art/"
+        },
+        {
+          "name": "Upcoming Events at PTL",
+          "url": "http://peterboroughtownlibrary.org/"
+        }
+      ]
+    },
+    {
+      "name": "What We Offer",
+      "url": "http://peterboroughtownlibrary.org/what-we-offer/",
+      "menu": [
+        {
+          "name": "For Children",
+          "url": "http://peterboroughtownlibrary.org/what-we-offer/kids/"
+        },
+        {
+          "name": "Computers",
+          "url": "http://peterboroughtownlibrary.org/what-we-offer/computers/"
+        },
+        {
+          "name": "Get a Library Card",
+          "url": "http://peterboroughtownlibrary.org/what-we-offer/cards/"
+        },
+        {
+          "name": "Borrowing",
+          "url": "http://peterboroughtownlibrary.org/what-we-offer/borrowing/"
+        },
+        {
+          "name": "Space Rental",
+          "url": "http://peterboroughtownlibrary.org/what-we-offer/space/"
+        },
+        {
+          "name": "Interlibrary Loan",
+          "url": "http://peterboroughtownlibrary.org/what-we-offer/interlibrary/"
+        },
+        {
+          "name": "Museum Passes",
+          "url": "http://peterboroughtownlibrary.org/what-we-offer/passes/"
+        }
+      ]
+    },
+    {
+      "name": "Online Resources",
+      "url": "http://peterboroughtownlibrary.org/online-resources/"
+    },
+    {
+      "name": "Books and Media",
+      "url": "http://peterboroughtownlibrary.org/books/",
+      "menu": [
+        {
+          "name": "eBooks and Audiobooks",
+          "url": "http://peterboroughtownlibrary.org/books/ebooks-and-audiobooks/"
+        },
+        {
+          "name": "Your Account",
+          "url": "http://peterboroughtownlibrary.org/books/your-account/"
+        },
+        {
+          "name": "How to Find Things",
+          "url": "http://peterboroughtownlibrary.org/books/how-to-find-things/"
+        },
+        {
+          "name": "Interlibrary Loan",
+          "url": "http://peterboroughtownlibrary.org/books/interlibrary-loan/"
+        }
+      ]
+    },
+    {
+      "name": "Research",
+      "url": "http://peterboroughtownlibrary.org/research/",
+      "menu": [
+        {
+          "name": "Digital Resources",
+          "url": "http://peterboroughtownlibrary.org/research/digitalresources/"
+        }
+      ]
+    },
+    {
+      "name": "About",
+      "url": "http://peterboroughtownlibrary.org/about/",
+      "menu": [
+        {
+          "name": "History",
+          "url": "http://peterboroughtownlibrary.org/about/history/"
+        },
+        {
+          "name": "Trustees",
+          "url": "http://peterboroughtownlibrary.org/about/trustees/"
+        },
+        {
+          "name": "Friends",
+          "url": "http://peterboroughtownlibrary.org/about/friends/",
+          "menu": [
+            {
+              "name": "Used Book Shop",
+              "url": "http://peterboroughtownlibrary.org/about/friends/usedbookshop/"
+            }
+          ]
+        },
+        {
+          "name": "Hours",
+          "url": "http://peterboroughtownlibrary.org/about/hours/"
+        },
+        {
+          "name": "Contact",
+          "url": "http://peterboroughtownlibrary.org/about/contact/"
+        }
+      ]
+    },
+    {
+      "name": "1833 Society",
+      "url": "http://peterboroughtownlibrary.org/1833about/",
+      "menu": [
+        {
+          "name": "Why a New Library?",
+          "url": "http://peterboroughtownlibrary.org/1833about/why-a-new-library/"
+        },
+        {
+          "name": "Current Status",
+          "url": "http://peterboroughtownlibrary.org/1833about/current-status/"
+        }
+      ]
+    }
+  ]
+}
